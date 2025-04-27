@@ -10,7 +10,7 @@ public RandomStringChooser(String[] wordArray){
   }
 }
   //Heads up! 
-  Public String getNext(){
+  public String getNext(){
       if( words.size() == 0){
             return "NONE";
       }
